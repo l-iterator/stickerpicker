@@ -1,7 +1,13 @@
 {
   "packs": [
     "emotes.json",
-    "fatclowns.json"
+    "fatclowns.json",
+    "kirill_i_mefodii.json",
+    "VsratyeOk.json",
+    "cursedemoticon.json",
+    "smeshariki.json",
+    "ILove2ch.json",
+    "Odnoklassniki_ru.json"
   ],
   "homeserver_url": "https://sakura.ci"
 }
