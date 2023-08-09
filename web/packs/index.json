@@ -1,6 +1,7 @@
 {
   "packs": [
-    "emotes.json"
+    "emotes.json",
+    "fatclowns.json"
   ],
   "homeserver_url": "https://sakura.ci"
 }
